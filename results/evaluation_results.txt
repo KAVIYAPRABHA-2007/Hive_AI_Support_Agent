@@ -1,0 +1,20 @@
+HIVER AI SUPPORT AGENT - EVALUATION
+==================================================
+
+Evaluation examples: 200
+
+BASELINE 1 - MAJORITY CLASS
+Majority intent: apps_software
+Accuracy: 0.590
+
+BASELINE 2 - KEYWORD CLASSIFIER
+Accuracy: 0.995
+
+PER-INTENT RESULTS
+            intent  examples  correct  accuracy
+activation_account        10       10     1.000
+       apple_music         7        6     0.857
+     apps_software       118      118     1.000
+   audio_headphone         3        3     1.000
+  battery_charging         9        9     1.000
+        ios_update        53       53     1.000
